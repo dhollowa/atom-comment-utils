@@ -1,0 +1,23 @@
+{
+  "name": "comment-utils",
+  "author": "David Holloway <davidh@slugworth.com>",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "A package for cycling between source comment formatting styles.",
+  "keywords": [
+    "comment",
+    "format",
+    "comment-format",
+    "objective-c",
+    "c++",
+    "doc"
+  ],
+  "repository": "https://github.com/dhollowa/comment-utils",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "pegjs": "^0.10.0"
+  }
+}

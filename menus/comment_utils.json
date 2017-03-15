@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Comment Format",
+        "command": "comment-utils:cycle-selection"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Comment Utilities",
+          "submenu": [
+            {
+              "label": "Cycle Selection",
+              "command": "comment-utils:cycle-selection"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
