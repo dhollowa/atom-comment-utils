@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-shift-q": "comment-utils:cycle-selection"
+    "ctrl-shift-/": "comment-utils:cycle-selection"
   }
 }
