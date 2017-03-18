@@ -1,6 +1,6 @@
 # comment-utils
 An Atom package that supports quick reflowing and reformatting of C++ style comments.
-Invoking ctrl-/ repeatedly on a selection cycles between the following comment styles:
+Invoking ctrl-shift-/ repeatedly on a selection cycles between the following comment styles:
 
 <pre>
 /** The quick brown fox jumped over the lazy dog. The quick brown fox jumped
