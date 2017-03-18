@@ -32,7 +32,7 @@ or
 </pre>
 
 TODO:
-  - [ ] Add additional comment formats, with config controls.
+  - [ ] Add additional comment styles, with config controls.
   - [ ] Add partial comment formatting, like " * The quick brown fox."
   - [ ] Add tests.
   - [ ] Make available to Atom's package manager
