@@ -1,5 +1,5 @@
 {
-  "atom-workspace": {
-    "ctrl-shift-/": "comment-utils:cycle-selection"
+  "atom-text-editor[data-grammar='source c'],[data-grammar='source cpp'],[data-grammar='source java'],[data-grammar='source js'],[data-grammar='source json'],[data-grammar='source coffee'],[data-grammar='source objc'],[data-grammar='source objcpp'],[data-grammar='source protobuf']:not([mini])": {
+    "ctrl-c /": "comment-utils:cycle-selection"
   }
 }
