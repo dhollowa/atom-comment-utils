@@ -30,3 +30,9 @@ or
 <pre>
 // The quick brown fox jumped over the lazy dog.
 </pre>
+
+TODO:
+  - [ ] Add additional comment formats, with config controls.
+  - [ ] Add partial comment formatting, like " * The quick brown fox."
+  - [ ] Add tests.
+  - [ ] Make available to Atom's package manager
