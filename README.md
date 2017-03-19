@@ -31,6 +31,9 @@ or
 // The quick brown fox jumped over the lazy dog.
 </pre>
 
+![Comment Utils](comment_utils.gif)
+
+
 TODO:
   - [ ] Add additional comment styles, with config controls.
   - [ ] Add partial comment formatting, like " * The quick brown fox."
