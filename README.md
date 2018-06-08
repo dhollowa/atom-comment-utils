@@ -19,7 +19,7 @@ Invoking *ctrl-c /* repeatedly on a comment selection cycles between the followi
 
 ## Javadoc
 <pre>
-/*
+/**
  * The quick brown fox jumped over the lazy dog. The quick brown fox jumped over
  * the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown
  * fox jumped over the lazy dog.
